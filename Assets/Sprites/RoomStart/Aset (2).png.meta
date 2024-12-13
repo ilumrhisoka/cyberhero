@@ -1,0 +1,1458 @@
+fileFormatVersion: 2
+guid: f6d6500ce1e98084a97f472408006dfb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aset (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e297ef2b4beacd04da8f6dbe31516ddc
+      internalID: 1070897272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1090
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1affa17f692e947bd5f2925f0d7179
+      internalID: 1743959130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1090
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f09bf0b4704fc40a4bc9279c5b0556
+      internalID: -2018662081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1090
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4987765163f3ce439dfd583ae348d53
+      internalID: 1559542997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1090
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f45374c7f3ef5343af265b4b89e8afe
+      internalID: -1381151917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1090
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2303b84e55419c34fa9f8e2c73c37db3
+      internalID: 1380636539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1090
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc58e4a211543b49a78cfbf49f36a38
+      internalID: 1558162754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1090
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0884d7da17e8b394391b71d88b02cca9
+      internalID: -1017873426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de39d23beb698143bf4c75fb3aeab0b
+      internalID: -1626093361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 930
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409d05b9ed4ff84c9317f50f3839dd6
+      internalID: 909981819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 930
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357a92e94fec7b24f9ee18965895c9cf
+      internalID: 1003184541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 930
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca12bc854cc87644b9af9208d4261edd
+      internalID: 1989857386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 930
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813de861a8889a3458bb427c0fc4d22f
+      internalID: 318908467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 930
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91d0c8a95acde245abc7d8eeac2632f
+      internalID: 1142619029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 930
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211674403a9883343b49fc0cc54d2f4f
+      internalID: 1484318098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_26
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 930
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fa02d373764b242973b10669015449
+      internalID: -716717822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a93d66a67069b345adb18f6ab61298b
+      internalID: 1900289602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 770
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030073cbfeb0ded46800a74a4871d1ad
+      internalID: 375296021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 770
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe818962882ad498e6a199a71e5eaf
+      internalID: 867842855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 770
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b546f3615148043bca09a3c5e7a2d9
+      internalID: -668837574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 770
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea840effffd6c4eb0ddcf630f3a281
+      internalID: 674265120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_43
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 770
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d66f06f5ad4484aad1bf0ca4eb43d0
+      internalID: -1328629264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 770
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8241319b519c03e4f8c75c7b158ed834
+      internalID: -549930577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_45
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 770
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81fd44ea7cc16042b114b745937f4db
+      internalID: -315817929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de53aa136cc1542905a9ba2dfc1f9f
+      internalID: -1993518492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 610
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d08a271c2c71342974f295e5e775e3
+      internalID: -1825771171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 610
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cdd87997a4dbe469216f395425dc5f
+      internalID: 1077999371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 610
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b3019ac295544bb61955d20b6d765
+      internalID: -1207728255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 610
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9344b45adf4b54e915ec570b65138b
+      internalID: 1843082948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 610
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249ab835bd2fde74bba124a54b33499c
+      internalID: -1372281206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 610
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a41e8ffcf2f08a439277f278950dbb6
+      internalID: -149284306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_64
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 610
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56868ff2c2917b944a0c23f03287957a
+      internalID: 1450742538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148ba771957cdf4fa213bb818211426
+      internalID: 1429053621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 449
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc500207d01849c43ade1d2d7ddc93ce
+      internalID: -489906318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 450
+        width: 160
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba375a293325142923a9e0c8f725af
+      internalID: 1921932051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_79
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 450
+        width: 159
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec523736ae4ebe4bb064fa2a8c1b76a
+      internalID: -1920781838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 450
+        width: 154
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d22a4918d0605488610662e2de3d8f
+      internalID: 1471570539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 450
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a448a730806498d419a93afee8dfb012
+      internalID: 1008505785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_82
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 450
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a1994e3c043247886db72b48cd452
+      internalID: -679758603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_83
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 450
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391f49e74739d941a824eecaec3a420
+      internalID: -361167108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6ebc4cf61311049941df89d2f0cb5f
+      internalID: -617236949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 160
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce048a5a26bd838458e2ff05e8e2a8ed
+      internalID: 1988209321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa634bcf275f6d1499639edf58078ffa
+      internalID: 1208791408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_98
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 287
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf1f99563ee8284da0225e203820a3d
+      internalID: 1880734568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_99
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 291
+        width: 160
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e468af05a686c9b4f906020d6f367ea8
+      internalID: 78925473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_100
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 291
+        width: 156
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b2529e52f149e469eea816f3913a8d
+      internalID: 1956252498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_101
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 290
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44abf94d06313914d941a0eada38647d
+      internalID: -1058330648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_102
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 290
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cae9d3f4f079c2488d612c66b7a1d99
+      internalID: -347291664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a571763993792984ab25ea3fb05f8b44
+      internalID: -319582694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f515cb8ff74a489fba90be6d7c0f4
+      internalID: 68928346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d22fd2380f734dbbea6b792e17427
+      internalID: 621415102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 129
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758beaa36f985334d94f8a8d3a3c08d5
+      internalID: 1685676471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 130
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74091a4e279e53b4f8b0fa5710cf4178
+      internalID: 119776659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_119
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 130
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f28b609bcc0343928a683c6e082f8
+      internalID: 707351857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_120
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 130
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4c0cb0fcee6cd40bf633621431a394
+      internalID: -372487867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_121
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 130
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fad3685a31a1b4aa6c02e89fe64dbc
+      internalID: 865133653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aset (2)_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1
+        width: 671
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a646820aec12ada499a0697d69667f1c
+      internalID: -1756011357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aset (2)_0: 1070897272
+      Aset (2)_1: 1743959130
+      Aset (2)_10: -626127258
+      Aset (2)_100: 1956252498
+      Aset (2)_101: -1058330648
+      Aset (2)_102: -347291664
+      Aset (2)_103: 165298181
+      Aset (2)_104: 710193175
+      Aset (2)_105: 447170748
+      Aset (2)_106: 1711104316
+      Aset (2)_107: -1852549064
+      Aset (2)_108: -239400481
+      Aset (2)_109: -633056774
+      Aset (2)_11: 1106005038
+      Aset (2)_110: -723101781
+      Aset (2)_111: 199129239
+      Aset (2)_112: 978089771
+      Aset (2)_113: -75760482
+      Aset (2)_114: -319582694
+      Aset (2)_115: 68928346
+      Aset (2)_116: 621415102
+      Aset (2)_117: 1685676471
+      Aset (2)_118: 119776659
+      Aset (2)_119: 707351857
+      Aset (2)_12: 1202122159
+      Aset (2)_120: -372487867
+      Aset (2)_121: 865133653
+      Aset (2)_122: -304775065
+      Aset (2)_123: -960989954
+      Aset (2)_124: -169305602
+      Aset (2)_125: -2117758730
+      Aset (2)_126: 1749559461
+      Aset (2)_127: -1567282038
+      Aset (2)_128: -2016433143
+      Aset (2)_129: 2130992147
+      Aset (2)_13: -1935737267
+      Aset (2)_130: -1570214079
+      Aset (2)_131: -932091877
+      Aset (2)_132: 1765763484
+      Aset (2)_133: 1578794953
+      Aset (2)_14: -1410359177
+      Aset (2)_15: 981718418
+      Aset (2)_16: -1276001984
+      Aset (2)_17: 1761967272
+      Aset (2)_18: -1329561156
+      Aset (2)_19: -1626093361
+      Aset (2)_2: -2018662081
+      Aset (2)_20: 909981819
+      Aset (2)_21: 1003184541
+      Aset (2)_22: 1989857386
+      Aset (2)_23: 318908467
+      Aset (2)_24: 1142619029
+      Aset (2)_25: 1484318098
+      Aset (2)_26: -716717822
+      Aset (2)_27: -1473246155
+      Aset (2)_28: 920744738
+      Aset (2)_29: 979145388
+      Aset (2)_3: 1559542997
+      Aset (2)_30: -2013196434
+      Aset (2)_31: -530720076
+      Aset (2)_32: -39343059
+      Aset (2)_33: 1459998179
+      Aset (2)_34: -1762118908
+      Aset (2)_35: 140975392
+      Aset (2)_36: 239719136
+      Aset (2)_37: -1554665743
+      Aset (2)_38: 1900289602
+      Aset (2)_39: 375296021
+      Aset (2)_4: -1381151917
+      Aset (2)_40: 867842855
+      Aset (2)_41: -668837574
+      Aset (2)_42: 674265120
+      Aset (2)_43: -1328629264
+      Aset (2)_44: -549930577
+      Aset (2)_45: -315817929
+      Aset (2)_46: -583166264
+      Aset (2)_47: 69202318
+      Aset (2)_48: -413804918
+      Aset (2)_49: -1219848646
+      Aset (2)_5: 1380636539
+      Aset (2)_50: 1916292957
+      Aset (2)_51: 2072234983
+      Aset (2)_52: -707148250
+      Aset (2)_53: -1128172425
+      Aset (2)_54: -1204757225
+      Aset (2)_55: -40787177
+      Aset (2)_56: -1021682304
+      Aset (2)_57: -1993518492
+      Aset (2)_58: -1825771171
+      Aset (2)_59: 1077999371
+      Aset (2)_6: 1558162754
+      Aset (2)_60: -1207728255
+      Aset (2)_61: 1843082948
+      Aset (2)_62: -1372281206
+      Aset (2)_63: -149284306
+      Aset (2)_64: 1450742538
+      Aset (2)_65: 1598680017
+      Aset (2)_66: 1956291088
+      Aset (2)_67: -160349001
+      Aset (2)_68: 577737274
+      Aset (2)_69: 684665337
+      Aset (2)_7: -1017873426
+      Aset (2)_70: -1567754452
+      Aset (2)_71: 1856284834
+      Aset (2)_72: 711564
+      Aset (2)_73: -1046500543
+      Aset (2)_74: 799304818
+      Aset (2)_75: -2117756356
+      Aset (2)_76: 1429053621
+      Aset (2)_77: -489906318
+      Aset (2)_78: 1921932051
+      Aset (2)_79: -1920781838
+      Aset (2)_8: -1756011357
+      Aset (2)_80: 1471570539
+      Aset (2)_81: 1008505785
+      Aset (2)_82: -679758603
+      Aset (2)_83: -361167108
+      Aset (2)_84: 212440272
+      Aset (2)_85: -906057005
+      Aset (2)_86: -1752701571
+      Aset (2)_87: -1884457502
+      Aset (2)_88: 1240068403
+      Aset (2)_89: 1252773945
+      Aset (2)_9: -139317309
+      Aset (2)_90: -245896731
+      Aset (2)_91: 417059777
+      Aset (2)_92: 1453170419
+      Aset (2)_93: -2091667682
+      Aset (2)_94: 609628212
+      Aset (2)_95: -617236949
+      Aset (2)_96: 1988209321
+      Aset (2)_97: 1208791408
+      Aset (2)_98: 1880734568
+      Aset (2)_99: 78925473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

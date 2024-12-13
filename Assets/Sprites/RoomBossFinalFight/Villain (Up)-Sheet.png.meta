@@ -1,0 +1,750 @@
+fileFormatVersion: 2
+guid: d2cf68361fb72954eaf0499e0f624ed4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 447
+        width: 238
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204ff3bd760f0534b9594995c0b1c971
+      internalID: 1916473430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 468
+        width: 280
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572f6240682c14439b3d241d53e867c
+      internalID: 285945304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 468
+        width: 316
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04257a59fc07174f9d1809d90b3f777
+      internalID: 1865180388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 468
+        width: 438
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8023961421c7df4dbd8c7053da0c207
+      internalID: 2105958712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 463
+        width: 459
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6736075c6718b2246930825c63c6730e
+      internalID: 541233232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 6304
+        y: 468
+        width: 444
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c3fd368361114bb14ce30bfde67d0
+      internalID: 1490187911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6752
+        y: 469
+        width: 451
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810b4e408291adf41a6853d13fbfeffb
+      internalID: -1975467314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 7204
+        y: 468
+        width: 440
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c0069bb8b241546a4b414b761ecffb
+      internalID: 843368667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7647
+        y: 463
+        width: 428
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998cafb7d485ccc4baf63217e54729f9
+      internalID: 838530105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 468
+        width: 369
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea7329de5bf6bc44802dc0ec2913526
+      internalID: -1314787933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 8606
+        y: 468
+        width: 280
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3990c04bbf22e14e8e8695f81a1fd17
+      internalID: 2084932796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 9049
+        y: 468
+        width: 264
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c3407117cc05047b3f21edaf532d44
+      internalID: 1601507300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9492
+        y: 468
+        width: 274
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d825acfbee9e3844bf1ea27f34a4a29
+      internalID: 1808950360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 9904
+        y: 463
+        width: 332
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65924edfd4f85e94eba7595aad4044fc
+      internalID: -1299939473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 10346
+        y: 468
+        width: 343
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9a1016529cba14c9ef0e932f11103a
+      internalID: -936490465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 379
+        width: 253
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ab0057aa2e2e4b9c6d1a4ccd315af
+      internalID: -263724666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 316
+        width: 248
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b88daf16a46349816f4d69bca0cf7
+      internalID: -1341210152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 221
+        width: 258
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2264d0c17f33a84095f5ee94c3e0001
+      internalID: 273803967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 0
+        width: 217
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41144a83b20f55d4aa33586e0d9b982a
+      internalID: -163088923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 32
+        width: 285
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1235c27cebbc793428f856ce6542a8fa
+      internalID: 89091111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 306
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b432e6f8cfa39146945e7bde6814938
+      internalID: -176415476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 348
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22682e04fec1a384e92265bdb34d3ca5
+      internalID: 1635515832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 0
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3149ed897c70d4d969e384dead4451
+      internalID: 1103570044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villain (Up)-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 0
+        width: 279
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96d53243030be4faddc5008ffa7aeb
+      internalID: 685995925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Villain (Up)-Sheet_0: 1916473430
+      Villain (Up)-Sheet_1: 1402085525
+      Villain (Up)-Sheet_10: -1975467314
+      Villain (Up)-Sheet_100: 685995925
+      Villain (Up)-Sheet_101: 2127764329
+      Villain (Up)-Sheet_102: -303626464
+      Villain (Up)-Sheet_103: -707865572
+      Villain (Up)-Sheet_104: 2071238483
+      Villain (Up)-Sheet_105: 1804531521
+      Villain (Up)-Sheet_11: 843368667
+      Villain (Up)-Sheet_12: 838530105
+      Villain (Up)-Sheet_13: -1314787933
+      Villain (Up)-Sheet_14: 2084932796
+      Villain (Up)-Sheet_15: 1601507300
+      Villain (Up)-Sheet_16: 1808950360
+      Villain (Up)-Sheet_17: -1299939473
+      Villain (Up)-Sheet_18: -936490465
+      Villain (Up)-Sheet_19: -263724666
+      Villain (Up)-Sheet_2: 722177613
+      Villain (Up)-Sheet_20: 379817298
+      Villain (Up)-Sheet_21: -1368575506
+      Villain (Up)-Sheet_22: 439304929
+      Villain (Up)-Sheet_23: 1359025209
+      Villain (Up)-Sheet_24: 410898618
+      Villain (Up)-Sheet_25: -1736614387
+      Villain (Up)-Sheet_26: 1514234730
+      Villain (Up)-Sheet_27: -590824970
+      Villain (Up)-Sheet_28: -1341210152
+      Villain (Up)-Sheet_29: -316345940
+      Villain (Up)-Sheet_3: 285945304
+      Villain (Up)-Sheet_30: -907218354
+      Villain (Up)-Sheet_31: 1792734450
+      Villain (Up)-Sheet_32: 60633845
+      Villain (Up)-Sheet_33: -573723300
+      Villain (Up)-Sheet_34: -783014729
+      Villain (Up)-Sheet_35: 358644768
+      Villain (Up)-Sheet_36: 376343630
+      Villain (Up)-Sheet_37: -1313507012
+      Villain (Up)-Sheet_38: 273803967
+      Villain (Up)-Sheet_39: 981509585
+      Villain (Up)-Sheet_4: -1122636069
+      Villain (Up)-Sheet_40: 1117952544
+      Villain (Up)-Sheet_41: 782785420
+      Villain (Up)-Sheet_42: 554632997
+      Villain (Up)-Sheet_43: 1890610165
+      Villain (Up)-Sheet_44: -1312280780
+      Villain (Up)-Sheet_45: -1707830633
+      Villain (Up)-Sheet_46: -1716166605
+      Villain (Up)-Sheet_47: 1469884974
+      Villain (Up)-Sheet_48: -1002450981
+      Villain (Up)-Sheet_49: 2015109384
+      Villain (Up)-Sheet_5: 1865180388
+      Villain (Up)-Sheet_50: 201015357
+      Villain (Up)-Sheet_51: 156498417
+      Villain (Up)-Sheet_52: -1173478917
+      Villain (Up)-Sheet_53: -485028588
+      Villain (Up)-Sheet_54: 837003565
+      Villain (Up)-Sheet_55: -1142730553
+      Villain (Up)-Sheet_56: -2076546791
+      Villain (Up)-Sheet_57: -312116907
+      Villain (Up)-Sheet_58: -1104011854
+      Villain (Up)-Sheet_59: -229081959
+      Villain (Up)-Sheet_6: 2105958712
+      Villain (Up)-Sheet_60: 1720737921
+      Villain (Up)-Sheet_61: -112406111
+      Villain (Up)-Sheet_62: -1716110175
+      Villain (Up)-Sheet_63: 1814507891
+      Villain (Up)-Sheet_64: 488348729
+      Villain (Up)-Sheet_65: -1609991418
+      Villain (Up)-Sheet_66: 1441321373
+      Villain (Up)-Sheet_67: 2132459462
+      Villain (Up)-Sheet_68: 137811693
+      Villain (Up)-Sheet_69: 767009244
+      Villain (Up)-Sheet_7: -539909344
+      Villain (Up)-Sheet_70: 1880347175
+      Villain (Up)-Sheet_71: 1884333027
+      Villain (Up)-Sheet_72: 366905259
+      Villain (Up)-Sheet_73: 306658406
+      Villain (Up)-Sheet_74: -1915800182
+      Villain (Up)-Sheet_75: 1848630442
+      Villain (Up)-Sheet_76: 683682702
+      Villain (Up)-Sheet_77: -834344131
+      Villain (Up)-Sheet_78: 1036790436
+      Villain (Up)-Sheet_79: -1235081239
+      Villain (Up)-Sheet_8: 541233232
+      Villain (Up)-Sheet_80: 1189174221
+      Villain (Up)-Sheet_81: 1261750315
+      Villain (Up)-Sheet_82: 864819188
+      Villain (Up)-Sheet_83: -824641390
+      Villain (Up)-Sheet_84: -679908530
+      Villain (Up)-Sheet_85: -1370082785
+      Villain (Up)-Sheet_86: -422711814
+      Villain (Up)-Sheet_87: -163088923
+      Villain (Up)-Sheet_88: 89091111
+      Villain (Up)-Sheet_89: 1692930779
+      Villain (Up)-Sheet_9: 1490187911
+      Villain (Up)-Sheet_90: -1873591019
+      Villain (Up)-Sheet_91: 2091080869
+      Villain (Up)-Sheet_92: 875828090
+      Villain (Up)-Sheet_93: 593090066
+      Villain (Up)-Sheet_94: -1470047554
+      Villain (Up)-Sheet_95: 412247050
+      Villain (Up)-Sheet_96: -1054496577
+      Villain (Up)-Sheet_97: -176415476
+      Villain (Up)-Sheet_98: 1635515832
+      Villain (Up)-Sheet_99: 1103570044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
